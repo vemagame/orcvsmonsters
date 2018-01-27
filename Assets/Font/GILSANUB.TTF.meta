@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a608b2738a7cc564daf355b3c616a9a8
+timeCreated: 1513676265
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gill Sans Ultra Bold
+  fontNames:
+  - Gill Sans Ultra Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
